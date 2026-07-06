@@ -82,13 +82,6 @@ An interactive dashboard was developed to present business insights through dyna
   - Average Rating
   - Number of Items
 
-- Interactive Filters
-  - Outlet Size
-  - Outlet Location
-  - Item Type
-  - Fat Content
-  - Outlet Type
-
 - Visualizations
   - Sales by Item Type
   - Sales by Outlet Location
@@ -128,8 +121,8 @@ BlinkIT-Grocery-Analysis/
 │
 ├── Images/
 │   ├── dashboard.png
-│   ├── sales_by_item_type.png
-│   ├── outlet_analysis.png
+│   ├── img1.png
+│   ├── img2.png
 │   └── ...
 │
 └── README.md
@@ -139,12 +132,8 @@ BlinkIT-Grocery-Analysis/
 
 ## 🚀 Skills Demonstrated
 
-- Data Cleaning
-- Data Preprocessing
 - Exploratory Data Analysis
-- Feature Engineering
 - Data Visualization
-- Dashboard Development
 - Business Insight Generation
 - Python Programming
 - Power BI
@@ -154,14 +143,20 @@ BlinkIT-Grocery-Analysis/
 
 ## 📷 Dashboard Preview
 
-
+#### Total Sales Analysis
 ![Dashboard1](Dashboard_images/img1.png)
+
+#### Small Outlet Average Sales Dashboard
 
 ![Dashboard2](Dashboard_images/img2.png)
 
+#### Average Sales Analysis for Dairy Products in Tier 2 Outlets
+
 ![Dashboard3](Dashboard_images/img3.png)
 
+#### Medium-Sized Outlet Item Distribution Dashboard
 
+![Dashboard4](Dashboard_images/img4.png)
 ---
 
 ## 🔮 Future Improvements
