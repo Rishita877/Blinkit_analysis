@@ -45,9 +45,7 @@ Interactive Dashboard (Power BI)
 - Removed missing values from **Item Weight** using the median.
 - Standardized inconsistent values in **Item Fat Content**.
 - Checked and handled duplicate records.
-- Verified data types.
 - Created a new **Visibility Category** feature.
-- Renamed and organized columns where required.
 - Prepared the dataset for visualization in Power BI.
 
 ---
@@ -147,15 +145,12 @@ BlinkIT-Grocery-Analysis/
 ![Dashboard1](Dashboard_images/img1.png)
 
 #### Small Outlet Average Sales Dashboard
-
 ![Dashboard2](Dashboard_images/img2.png)
 
 #### Average Sales Analysis for Dairy Products in Tier 2 Outlets
-
 ![Dashboard3](Dashboard_images/img3.png)
 
 #### Medium-Sized Outlet Item Distribution Dashboard
-
 ![Dashboard4](Dashboard_images/img4.png)
 ---
 
