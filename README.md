@@ -33,17 +33,12 @@ Interactive Dashboard (Power BI)
 - Python
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
 - Jupyter Notebook
 - Power BI
 - Git & GitHub
 
 ---
 
-## 🧹 Data Cleaning
-
-The dataset was cleaned and preprocessed using Python.
 
 ### Cleaning Tasks Performed
 
@@ -72,7 +67,6 @@ Performed exploratory analysis using Python to understand sales patterns and pro
 - Sales by Outlet Location
 - Outlet Type Performance
 - Correlation between numerical features
-- Category-wise comparisons using bar charts, count plots, histograms, and heatmaps
 
 ---
 
@@ -108,12 +102,12 @@ An interactive dashboard was developed to present business insights through dyna
 
 ## 📌 Key Business Insights
 
-- Low Fat products generated a significant share of total sales.
-- Medium-sized outlets contributed the highest overall revenue.
-- Tier 3 locations recorded the strongest sales performance.
-- Supermarket Type 1 stores generated the highest sales among outlet types.
-- Certain product categories consistently outperformed others.
-- Product visibility showed an influence on overall sales performance.
+- Generated $1.20M in total sales from 8,523 items, with an average customer rating of 3.92.
+- Supermarket Type1 was the top-performing outlet, contributing $787.55K in total sales.
+- Tier 3 outlets recorded the highest sales ($472.13K), making them the most profitable location category.
+- Medium-sized outlets generated the highest revenue ($507.9K) compared to small and large outlets.
+- Low Fat products outperformed Regular products, contributing $776.3K in sales.
+- Fruits & Vegetables and Snack Foods were the best-selling product categories, each generating approximately $0.18M in sales.
 
 ---
 
@@ -160,13 +154,13 @@ BlinkIT-Grocery-Analysis/
 
 ## 📷 Dashboard Preview
 
-### Power BI Dashboard
 
-> *(Add your dashboard screenshot here after uploading it to GitHub.)*
+![Dashboard1](Dashboard_images/img1.png)
 
-```markdown
-![Dashboard](Images/dashboard.png)
-```
+![Dashboard2](Dashboard_images/img2.png)
+
+![Dashboard3](Dashboard_images/img3.png)
+
 
 ---
 
@@ -185,6 +179,4 @@ BlinkIT-Grocery-Analysis/
 
 Aspiring Data Analyst | Python | Power BI | SQL
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
+GitHub: [Github](https://github.com/Rishita877)
